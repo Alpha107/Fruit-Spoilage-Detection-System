@@ -22,29 +22,32 @@ The primary aim of project is to develop an automated fruit spoilage detection s
 
 ## Scope of the project
 
-Theproject focuses on creating an automated system capable of detecting fruit spoilage in real-time using CNN. Its major aspect include distinguishing freshness and rottenness of fruit by training the model and integrating it into a real-time environment, and ensuring its reliability and effectiveness. The project seeks to offer a valuable solution for improving food quality control processes by en
-abling timely detection of spoiled fruits and also ensures consumer safety by preventing them from consuming it. 
+Theproject focuses on creating an automated system capable of detecting fruit spoilage in real-time using CNN. Its major aspect include distinguishing freshness and rottenness of fruit by training the model and integrating it into a real-time environment, and ensuring its reliability and effectiveness. The project seeks to offer a valuable solution for improving food quality control processes by enabling timely detection of spoiled fruits and also ensures consumer safety by preventing them from consuming it.
+
+## Significance
+
+Thefruit spoilage detection system is very important in fruit and juice industries. It helps industries to identify fresh and rotten fruits quickly and accurately, so as to avoid using bad fruits for juice production. This reduces losses and ensures that consumers get safe and good quality fruits and juices. The system uses modern technologies like deep learning to make it work accurately. By using these techniques of deep learning, fruit and juice industries can manage their fruit supplies better and improve their revenue. Overall, the system provides significant contribution in fruit and juice industries and makes sure that people consume high quality fruit in day-to-day life.
 
 ## System Block Diagram
 
-#
-#
-#
-#
+![1](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/0ff11f5c-a608-42cd-8f88-ea415e531eed)
 
 ## Flowchart
 
-#
-#
-#
-#
+![2](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/421a6115-5ebc-4df0-8002-9b9bc5bdf5d0)
 
-## Results
 
-#
-#
-#
-#
+## Model Peformance
+
+![3](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/5c69f469-f2e4-4699-9bff-232f3587f21f)
+![4](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/60f161cc-0520-428a-a386-603fd6e5524f)
+![5](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/883f5c91-3577-484a-8a1f-14b43ac61065)
+
+
+## Prediction Results
+
+![Screenshot 2024-05-11 211117](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/cc46f849-b6e2-4774-abf5-ea7d40764251)
+![Screenshot 2024-05-11 211105](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/94d16144-d25b-4899-afc0-f7f2c2322574)
 
 ## Conclusion
 
