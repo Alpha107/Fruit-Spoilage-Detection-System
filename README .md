@@ -2,6 +2,8 @@
 # Fruit Spoilage Detection System
 #
 #
+This project is a computer vision system that detects spoilage in fruits using Convolutional Neural Networks (CNNs). It was developed as a minor project for the Computer Engineering course.
+
 ## Project Members
 • Abashesh Ranabhat(077BCT003)
  
@@ -11,9 +13,6 @@
 
 • Sumnima Giri(077BCT035)
 
-
-
-This project is a computer vision system that detects spoilage in fruits using Convolutional Neural Networks (CNNs). It was developed as a minor project for the Computer Engineering course.
 ## Dataset
 We trained the model on four fruits type i.e. Apple, Banana, Orange and Grapes. The dataset used for training the models was collected from two sources:
 
@@ -24,6 +23,7 @@ A custom dataset of fruit images was collected by the team, capturing various st
 Additional fruit images were obtained from relevant datasets on Kaggle.
 
 https://www.kaggle.com/datasets/moltean/fruits
+
 https://www.kaggle.com/discussions/getting-started/358325
 
 ## Model Development
@@ -37,8 +37,7 @@ As the ImageDataGenerator function is only able to use a single pre-processing f
 
 ### Model Architecture: 
 
-#
-#
+![14](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/682fb560-3cdc-46c9-9ea1-dcf1f48da1c9)
 
 ### Training Details:
 [Include information about the training process, such as the number of epochs, batch size, optimizer, loss function, and any other relevant details.]
