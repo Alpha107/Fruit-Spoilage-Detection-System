@@ -49,6 +49,10 @@ Thefruit spoilage detection system is very important in fruit and juice industri
 ![Screenshot 2024-05-11 211117](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/cc46f849-b6e2-4774-abf5-ea7d40764251)
 ![Screenshot 2024-05-11 211105](https://github.com/Alpha107/Fruit-Spoilage-Detection-System/assets/115240879/94d16144-d25b-4899-afc0-f7f2c2322574)
 
+## Desktop Application
+For the application, we used Tkinter that was very common and easy to build desktop application with. In application, we added button to add, capture, recapture and process image. We could use both interated webcam or an external webcam according to our requirement. Using the load button we could load a
+image for the system. Using capture and recapture button we could capture new images using our webcam. The process button is enabled only after a image is either loaded or captured. After clicking the process button, the corresponding prediction would be displayed on the application itself. 
+
 ## Conclusion
 
 The project has utilized deep learning and computer vision to detect spoilage on fruits like apple, orange, grapes and banana. The ultimate goal of distinguishing freshness and rottenness of fruits has been achieved by the model. For providing higher efficiency and adaptability, we developed a combined generator that integrates multiple pre-processing steps while addressing the limitations of ImageDataGenerator.
