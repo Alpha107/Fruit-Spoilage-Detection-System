@@ -41,7 +41,7 @@ As the ImageDataGenerator function is only able to use a single pre-processing f
 
 ### Training Details:
 [Include information about the training process, such as the number of epochs, batch size, optimizer, loss function, and any other relevant details.]
-For the final teting and demonstrating model we carried out 15 epochs of 60 batch size. For the Convolution, Pooling, Flattening and Full Connection Layer we used ReLu activation and for the Output Layer we used SoftMax activation. We used Adam Optimizer with the learning rate of 0.001 for the model compiling. In he full connection layer we added the dropout of 0.1 for the model stability.
+For the final teting and demonstrating model we carried out 15 epochs of 60 batch size. For the Convolution, Pooling, Flattening and Full Connection Layer we used ReLu activation and for the Output Layer we used SoftMax activation. We used Adam Optimizer with the learning rate of 0.001 for the model compiling. In the full connection layer we added the dropout of 0.1 for the model stability.
 
 ### Performance Metrics: 
 
