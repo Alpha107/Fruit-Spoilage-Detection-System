@@ -4,7 +4,7 @@
 #
 This project is a computer vision system that detects spoilage in fruits using Convolutional Neural Networks (CNNs). It was developed as a minor project for the Computer Engineering course.
 
-## Project Members
+## Collaborator
 • Abashesh Ranabhat(077BCT003)
  
 • Aavash Adhikari(077BCT001)
