@@ -22,11 +22,11 @@ The primary aim of project is to develop an automated fruit spoilage detection s
 
 ## Scope of the project
 
-Theproject focuses on creating an automated system capable of detecting fruit spoilage in real-time using CNN. Its major aspect include distinguishing freshness and rottenness of fruit by training the model and integrating it into a real-time environment, and ensuring its reliability and effectiveness. The project seeks to offer a valuable solution for improving food quality control processes by enabling timely detection of spoiled fruits and also ensures consumer safety by preventing them from consuming it.
+The project focuses on creating an automated system capable of detecting fruit spoilage in real-time using CNN. Its major aspect include distinguishing freshness and rottenness of fruit by training the model and integrating it into a real-time environment, and ensuring its reliability and effectiveness. The project seeks to offer a valuable solution for improving food quality control processes by enabling timely detection of spoiled fruits and also ensures consumer safety by preventing them from consuming it.
 
 ## Significance
 
-Thefruit spoilage detection system is very important in fruit and juice industries. It helps industries to identify fresh and rotten fruits quickly and accurately, so as to avoid using bad fruits for juice production. This reduces losses and ensures that consumers get safe and good quality fruits and juices. The system uses modern technologies like deep learning to make it work accurately. By using these techniques of deep learning, fruit and juice industries can manage their fruit supplies better and improve their revenue. Overall, the system provides significant contribution in fruit and juice industries and makes sure that people consume high quality fruit in day-to-day life.
+The fruit spoilage detection system is very important in fruit and juice industries. It helps industries to identify fresh and rotten fruits quickly and accurately, so as to avoid using bad fruits for juice production. This reduces losses and ensures that consumers get safe and good quality fruits and juices. The system uses modern technologies like deep learning to make it work accurately. By using these techniques of deep learning, fruit and juice industries can manage their fruit supplies better and improve their revenue. Overall, the system provides significant contribution in fruit and juice industries and makes sure that people consume high quality fruit in day-to-day life.
 
 ## System Block Diagram
 
